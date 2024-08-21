@@ -1,0 +1,1151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+li,
+a {
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.main {
+    width: 2220px;
+    height: 1060px;
+    background: url(../images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.banner {
+    position: relative;
+}
+
+.group106 {
+    width: 627px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+
+.group106 img {
+    padding-left: 56px;
+    padding-bottom: 160px;
+}
+
+.textitem p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 500;
+    writing-mode: vertical-lr;
+    display: flex;
+    transform: rotate(180deg);
+    padding-bottom: 150px;
+    line-height: 5.8;
+}
+
+.three {
+    top: 1000px;
+    position: absolute;
+    box-shadow: black;
+}
+
+.service {
+    position: absolute;
+    top: 890px;
+    left: 300px;
+    display: flex;
+
+}
+
+.icon {
+    background: #FFFFFF;
+    width: 500px;
+    height: 327px;
+    padding: 40px 40px;
+    margin-right: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+}
+
+.icon h3 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.icon p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.iconOne {
+    background: #FFFFFF;
+    width: 500px;
+    height: 327px;
+    padding: 40px 40px;
+    margin-right: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+}
+
+.iconOne h3 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.iconOne p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.icontwo {
+    background: #FFFFFF;
+    width: 500px;
+    height: 327px;
+    padding: 40px 40px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+}
+
+.icontwo h3 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.icontwo p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.header {
+    display: flex;
+}
+
+.container {
+    width: 1580px;
+    margin: 0 auto;
+}
+
+.logowithmenuButton {
+    display: flex;
+}
+
+.logo {
+    padding-top: 30px;
+}
+
+.menu {
+    padding: 50px 265px;
+}
+
+.menu a {
+    padding-right: 30px;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+.button a {
+    font-family: "Nunito", sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 18px 26px;
+    background: #FF5538;
+    border-radius: 18px;
+}
+
+.textPart {
+    padding-top: 190px;
+    text-align: center;
+    display: flex;
+}
+
+.textPart h1 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 64px;
+    font-weight: 700;
+    padding-left: 20px;
+    width: 750px;
+}
+
+.textPart p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-left: 80px;
+    width: 650px;
+    line-height: 2;
+}
+
+.one {
+    padding-right: 10px;
+}
+
+.textPart a {
+    font-family: "Nunito", sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 18px 26px;
+    background: #FF5538;
+    border-radius: 18px;
+    line-height: 110px;
+    margin-right: 20px;
+
+}
+
+.textPart .kllj {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 16px 26px;
+    border-radius: 18px;
+    border: 1px solid #FF5538;
+    background: #FBF3F0;
+}
+
+.textPart picture img {
+    padding-left: 250px;
+    padding-top: 60px;
+}
+
+.two {
+    padding-top: 103px;
+}
+
+#peopleConnect {
+    padding-top: 250px;
+    position: relative;
+}
+
+#peopleConnect .imageTwo picture img {
+    position: absolute;
+    top: 920px;
+    left: 0;
+}
+
+#peopleConnect img {
+    position: absolute;
+    top: 350px;
+    left: 2007px;
+}
+
+#peopleConnect picture img {
+    position: absolute;
+    top: 390px;
+    left: 740px;
+}
+
+#peopleConnect .image img {
+    height: 541px;
+    width: 1000px;
+    /* background: #C4C4C4; */
+    position: absolute;
+    top: 470px;
+    left: 0;
+    z-index: 1;
+}
+
+.text {
+    height: 626px;
+    width: 1300px;
+    background: #FBF3F0;
+    padding-top: 107px;
+    padding-left: 180px;
+    padding-bottom: 107px;
+    margin-top: 20px;
+    margin-left: 923px;
+}
+
+.text h4 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 36px;
+    font-weight: 600;
+    padding-right: 500px;
+    padding-bottom: 30px;
+    line-height: 50px;
+}
+
+.text p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 630px;
+    padding-bottom: 40px;
+    line-height: 30px;
+}
+
+.text a {
+    font-family: "Nunito", sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 21px 22px;
+    background: #FF5538;
+    border-radius: 18px;
+}
+
+#peopleConnect h3 {
+    font-family: "Poppins", sans-serif;
+    color: #FF5538;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 300px;
+}
+
+#peopleConnect h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+    padding-left: 300px;
+    width: 900px;
+    padding-top: 8px;
+}
+
+#counterPart {
+    padding-top: 124px;
+    position: relative;
+}
+
+#counterPart a {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 22px 28px;
+    border-radius: 18px;
+    border: 1px solid #FF5538;
+    margin-left: 1795px;
+    position: absolute;
+    top: 200px;
+}
+
+#counterPart .textWithbutton h3 {
+    font-family: "Poppins", sans-serif;
+    color: #FF5538;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 300px;
+}
+
+#counterPart .textWithbutton h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+    padding-left: 300px;
+    width: 1000px;
+    line-height: 70px;
+}
+
+.image_item {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.m {
+    width: 675px;
+    height: 458px;
+    /* background: #C4C4C4; */
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+    position: relative;
+}
+
+.m img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 675px;
+    height: 328px;
+}
+
+.sub {
+    width: 675px;
+    height: 130px;
+    position: absolute;
+    top: 328px;
+    left: 0;
+    background: #FFFFFF;
+    padding-top: 40px;
+    padding-left: 34px;
+}
+
+.sub h4 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.sub h5 {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.box {
+    width: 910px;
+    height: 458px;
+    /* background: #C4C4C4; */
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+    position: relative;
+}
+
+.box img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 910px;
+    height: 328px;
+}
+
+.subBox {
+    width: 910px;
+    height: 130px;
+    position: absolute;
+    top: 328px;
+    left: 0;
+    background: #FFFFFF;
+    padding-top: 40px;
+    padding-left: 34px;
+}
+
+.subBox h4 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.subBox h5 {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.w {
+    width: 675px;
+    height: 458px;
+    background: #C4C4C4;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+    position: relative;
+}
+
+.w img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 675px;
+    height: 328px;
+}
+
+.subW {
+    width: 675px;
+    height: 130px;
+    position: absolute;
+    top: 328px;
+    left: 0;
+    background: #FFFFFF;
+    padding-top: 40px;
+    padding-left: 34px;
+}
+
+.subW h4 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.subW h5 {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.v {
+    width: 910px;
+    height: 458px;
+    /* background: #C4C4C4; */
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 15px rgb(0, 0, 0, 0.19);
+    position: relative;
+}
+
+.v img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 910px;
+    height: 328px;
+}
+
+.subV {
+    width: 910px;
+    height: 130px;
+    position: absolute;
+    top: 328px;
+    left: 0;
+    background: #FFFFFF;
+    padding-top: 40px;
+    padding-left: 34px;
+}
+
+.subV h4 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.subV h5 {
+    font-family: "Nunito", sans-serif;
+    color: #FF5538;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cross {
+    padding-left: 2000px;
+}
+
+#stillCounting {
+    width: 2240px;
+    height: 730px;
+    background: #FBF3F0;
+    margin-top: 100px;
+    position: relative;
+}
+
+#stillCounting .cross img {
+    position: absolute;
+    top: 100px;
+    right: 400px;
+}
+
+.blueviolet {
+    position: absolute;
+    bottom: 40px;
+    right: 1600px;
+}
+
+.firstCircle {
+    position: absolute;
+    top: 40px;
+    right: 2000px;
+}
+
+#stillCounting .circle img {
+    position: absolute;
+    right: 1950px;
+    top: 230px;
+}
+
+#stillCounting .circle .vector img {
+    position: absolute;
+    top: 340px;
+    right: 2100px;
+}
+
+#stillCounting img {
+    padding-left: 1723px;
+}
+
+.textbox {
+    width: 259px;
+    height: 230px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 120px;
+    left: 252px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.textbox h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.textbox p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.textboxone {
+    width: 259px;
+    height: 230px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 120px;
+    left: 550px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.textboxone h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.textboxone p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.textboxtwo {
+    width: 259px;
+    height: 230px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 392px;
+    left: 252px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.textboxtwo h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.textboxtwo p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.textboxthree {
+    width: 259px;
+    height: 230px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 392px;
+    left: 550px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.textboxthree h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.textboxthree p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-part {
+    position: absolute;
+    top: 127px;
+    left: 910px;
+}
+
+.text-part h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+    padding-right: 700px;
+    line-height: 70px;
+    padding-bottom: 20px;
+}
+
+.text-part p {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 780px;
+    line-height: 30px;
+    padding-bottom: 55px;
+}
+
+.text-part a {
+    font-family: "Nunito", sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    background: #FF5538;
+    padding: 26px 32px;
+    border-radius: 18px;
+}
+
+.text-item {
+    padding-top: 132px;
+    padding-left: 600px;
+}
+
+.text-item h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+    padding-right: 1200px;
+    text-align: center;
+    line-height: 67px;
+}
+
+.dhong {
+    padding-top: 70px;
+    padding-left: 294px;
+    padding-bottom: 140px;
+    display: flex;
+}
+
+.dhong img {
+    padding: 54px 54px;
+    background: #FBF3F0;
+    margin-right: 26px;
+}
+
+.customerSay {
+    width: 2240px;
+    height: 810px;
+    background: #FBF3F0;
+    position: relative;
+}
+
+.bigbox {
+    width: 501px;
+    height: 557px;
+    position: absolute;
+    background: #C4C4C4;
+    top: 130px;
+    left: 1270px;
+    border-radius: 30px;
+}
+
+.customerSay .bigbox img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 501px;
+    height: 557px;
+    border-radius: 30px;
+}
+
+.customerSay img {
+    position: absolute;
+    top: 550px;
+    left: 0;
+}
+
+.topcross img {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+.customerSay .rightSymbol img {
+    position: absolute;
+    top: 100px;
+    left: 2000px;
+}
+
+.customerSay h2 {
+    padding-top: 146px;
+    padding-left: 254px;
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.box_one {
+    height: 100px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 254px;
+    border-radius: 20px;
+    /* background: #C4C4C4; */
+    position: relative;
+}
+
+.customerSay .boxes .box_one img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.box_two {
+    height: 100px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 30px;
+    border-radius: 20px;
+    /* background: #C4C4C4; */
+    position: relative;
+}
+.customerSay .boxes .box_two img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.box_three {
+    height: 100px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 30px;
+    border-radius: 20px;
+    /* background: #C4C4C4; */
+    position: relative;
+}
+.customerSay .boxes .box_three img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.box_four {
+    height: 100px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 30px;
+    border-radius: 20px;
+    /* background: #C4C4C4; */
+    position: relative;
+}
+.customerSay .boxes .box_four img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.boxes {
+    display: flex;
+}
+
+.customerSay p {
+    margin-top: 80px;
+    text-transform: capitalize;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 1300px;
+    margin-left: 254px;
+}
+
+.customerSay h4 {
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 85px;
+    margin-left: 254px;
+}
+
+.textwithicons {
+    display: flex;
+}
+
+.icon-one {
+    height: 64px;
+    width: 64px;
+    border-radius: 10px;
+    background: #FFDDD7;
+    margin-top: 75px;
+    margin-left: 42px;
+    box-shadow: none;
+    position: relative;
+}
+
+.icon-one img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-two {
+    height: 64px;
+    width: 64px;
+    border-radius: 10px;
+    background: #FF5538;
+    margin-top: 75px;
+    margin-left: 24px;
+    box-shadow: none;
+    position: relative;
+}
+
+.icon-two img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#gotAproject {
+    width: 2240px;
+    height: 446px;
+    background: #FFD7C8;
+    position: relative;
+}
+
+hr {
+    width: 1736px;
+    position: absolute;
+    left: 254px;
+    top: 245px;
+}
+
+#gotAproject a {
+    font-family: "Nunito", sans-serif;
+    color: #FDF9F8;
+    font-size: 18px;
+    font-weight: 600;
+    background: #FF5538;
+    padding: 23px 26px;
+    position: absolute;
+    top: 117px;
+    right: 255px;
+    border-radius: 18px;
+}
+
+#gotAproject img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#gotAproject h5 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 96px;
+    padding-left: 254px;
+    padding-bottom: 10px;
+}
+
+#gotAproject h2 {
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    font-size: 48px;
+    font-weight: 600;
+    padding-left: 254px;
+}
+
+#gotAproject p {
+    text-transform: capitalize;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 95px;
+    padding-left: 254px;
+    padding-right: 700px;
+}
+
+#lastitem {
+    width: 2220px;
+    height: 631px;
+    background: #FFFFFF;
+    position: relative;
+}
+
+#lastitem .privacy h6 {
+    position: absolute;
+    bottom: 40px;
+    right: 500px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#lastitem .terms h6 {
+    position: absolute;
+    bottom: 40px;
+    right: 300px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.features h4 {
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    top: 140px;
+    left: 1100px;
+}
+
+.features ul li a {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.features ul {
+    position: absolute;
+    top: 230px;
+    left: 1070px;
+    display: flex;
+    flex-direction: column;
+    line-height: 3;
+}
+
+.products h4 {
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    top: 140px;
+    left: 1400px;
+}
+
+.products ul li a {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.products ul {
+    position: absolute;
+    top: 230px;
+    left: 1369px;
+    display: flex;
+    flex-direction: column;
+    line-height: 3;
+}
+
+.support h4 {
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+    font-size: 24px;
+    font-weight: 600;
+    position: absolute;
+    top: 140px;
+    left: 1760px;
+}
+
+.support ul li a {
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.support ul {
+    position: absolute;
+    top: 230px;
+    left: 1729px;
+    display: flex;
+    flex-direction: column;
+    line-height: 3;
+}
+
+#lastitem img {
+    padding-left: 254px;
+    padding-top: 140px;
+}
+
+#lastitem p {
+    text-transform: capitalize;
+    padding-left: 254px;
+    padding-top: 50px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 1500px;
+}
+
+.copyright p {
+    padding-left: 254px;
+    margin-top: 180px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight: 400;
+}
